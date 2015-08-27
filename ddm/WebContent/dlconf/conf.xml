@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conf>
+<RUNNINGTASK>/home/xinwang/tomcat7/apache-tomcat-7.0.42/webapps/ddm/download/log/runningTask</RUNNINGTASK>
+<XMLFILE>/home/xinwang/tomcat7/apache-tomcat-7.0.42/webapps/ddm/download/xmlfile.xml</XMLFILE>
+<DOWNLOADROOT>/home/xinwang/tomcat7/apache-tomcat-7.0.42/webapps/ddm/download/</DOWNLOADROOT>
+<MODIFIEDLINKFILE>/home/xinwang/tomcat7/apache-tomcat-7.0.42/webapps/ddm/download/log/modifiedlinkfile</MODIFIEDLINKFILE>
+<DATADIR>/home/xinwang/tomcat7/apache-tomcat-7.0.42/webapps/ddm/download/data/</DATADIR>
+<CHECKER>/home/xinwang/tomcat7/apache-tomcat-7.0.42/webapps/ddm/download/checkmodifiedLinkFile.sh</CHECKER>
+<MONITOR>/home/xinwang/tomcat7/apache-tomcat-7.0.42/webapps/ddm/download/monitor.sh</MONITOR>
+</conf>
